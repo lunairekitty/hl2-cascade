@@ -1,0 +1,8 @@
+"PBR"
+{
+    $basetexture               "hl2update\stone\sandstone_notrim_pbr_color"
+    $bumpmap                   "hl2update\stone\sandstone_notrim_pbr_normal"
+    $mraotexture               "hl2update\stone\sandstone_notrim_pbr_mrao"
+
+    $envmap                    "env_cubemap"
+}

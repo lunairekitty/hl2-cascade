@@ -1,0 +1,12 @@
+"PBR"
+{
+    $basetexture               "hl2update\nature\ground039_color"
+    $bumpmap                   "hl2update\nature\ground039_normal"
+    $mraotexture               "hl2update\nature\ground039_mrao"
+
+    $envmap                    "env_cubemap"
+	
+	$parallax 1
+	$parallaxdepth 0.025
+	$parallaxcenter 0.5
+}

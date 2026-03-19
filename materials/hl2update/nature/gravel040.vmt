@@ -1,0 +1,12 @@
+"PBR"
+{
+    $basetexture               "hl2update\nature\gravel040_color"
+    $bumpmap                   "hl2update\nature\gravel040_normal"
+    $mraotexture               "hl2update\nature\gravel040_mrao"
+
+    $envmap                    "env_cubemap"
+	
+	$parallax 1
+	$parallaxdepth 0.01
+	$parallaxcenter 0.5
+}

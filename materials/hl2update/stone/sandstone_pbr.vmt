@@ -1,0 +1,12 @@
+"PBR"
+{
+    $basetexture               "hl2update\stone\sandstone_pbr_color"
+    $bumpmap                   "hl2update\stone\sandstone_pbr_normal"
+    $mraotexture               "hl2update\stone\sandstone_pbr_mrao"
+
+    $envmap                    "env_cubemap"
+	
+	$parallax 1
+	$parallaxdepth 0.05
+	$parallaxcenter 0.5
+}
